@@ -1,0 +1,25 @@
+{
+  "name": "reto-pasos-backend",
+  "version": "1.0.0",
+  "description": "Backend para el reto de los pasos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroConsuegraMateo/reto-pasos-backend.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "pedroConsuegra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroConsuegraMateo/reto-pasos-backend/issues"
+  },
+  "homepage": "https://github.com/pedroConsuegraMateo/reto-pasos-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
